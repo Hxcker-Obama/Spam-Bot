@@ -1,0 +1,21 @@
+{
+  "name": "spam-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --max-old-space-size=4096 index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hxcker-Obama/Spam-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hxcker-Obama/Spam-Bot/issues"
+  },
+  "homepage": "https://github.com/Hxcker-Obama/Spam-Bot#readme",
+  "description": ""
+}
