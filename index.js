@@ -38,7 +38,7 @@ client.on("messageCreate", async (message) => {
                         console.error("Failed to send message:", error);
                     });
             }
-        }, 2000);
+        }, 500);
 
     } else if (message.content === ".stop") {
         spam = false;
